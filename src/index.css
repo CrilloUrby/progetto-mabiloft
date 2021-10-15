@@ -1,0 +1,12 @@
+body {
+  font-family: 'Nunito Sans';
+
+}
+
+
+.heart {
+  height: 90px;
+  width: 90px;
+  background: url("img/heart.png") no-repeat;
+  background-position: left;
+}
